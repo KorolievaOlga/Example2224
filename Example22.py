@@ -24,5 +24,5 @@ print(num_sum_list)
 c = []
 for i in num_sum_list:
     if num_list.count(i) == num_list_1.count(i):
-        c.appendcount(i)
+        c.append(i)
 print(c)
